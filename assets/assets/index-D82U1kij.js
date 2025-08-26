@@ -44,3 +44,5 @@ Error generating stack: `+u.message+`
 
 Versão 0.3.2
 github.com/lfachinetto/bisk-8`)}return X.useEffect(()=>{du=!0;const p=S=>{if(du)return S.preventDefault(),"Você tem certeza que deseja sair?"};return n.data.some(S=>S!==0)&&window.addEventListener("beforeunload",p),()=>{window.removeEventListener("beforeunload",p)}},[n]),g.jsxs(g.Fragment,{children:[g.jsx(op,{openConnection:"serial"in navigator?Mt:null,connected:h,IOBegin:m,setIOBegin:p=>{k(p),mu=p},IOEnd:C,setIOEnd:p=>{x(p),hs=p}}),g.jsxs("main",{children:[g.jsxs("section",{children:[g.jsx(Qp,{clear:P,uploadMemory:z,save:N,runAll:o?null:y,stop:()=>{i(!1),pu=!1},runInstByInst:Ln?null:a,runCycleByCycle:f}),g.jsx(cp,{memory:n,setMemory:Nt,file:e})]}),g.jsxs("section",{children:[g.jsx(Wp,{clearRegisters:me,changeClock:p=>{c(p),ms=p},clock:s}),g.jsx(Op,{registers:e,isa:A,rtl:l})]}),g.jsxs("section",{children:[g.jsx(Kp,{about:_n}),g.jsx(Zp,{isa:A,field:2})]})]})]})}hu.createRoot(document.getElementById("root")).render(g.jsx(Rs.StrictMode,{children:g.jsx(Jp,{})}));
+
+
